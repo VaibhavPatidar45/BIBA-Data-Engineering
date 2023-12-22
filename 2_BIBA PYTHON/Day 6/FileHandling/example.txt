@@ -1,0 +1,3 @@
+Hello, this is an example file.
+It contains multiple lines of text.
+File handling in Python is powerful.
